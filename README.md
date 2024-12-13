@@ -69,7 +69,7 @@ The **Pomodoro Timer Application** is a React-based productivity tool that helps
 
 ## Screenshot
 Here is a screenshot of the Pomodoro Timer: <br>
-<img src="./image/screenshot.png" alt="Pomodoro Timer Screenshot" height="325">
+<img src="./image/screenshot.png" alt="Pomodoro Timer Screenshot" height="330">
 
 ---
 
